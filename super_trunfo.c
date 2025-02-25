@@ -1,6 +1,7 @@
 #include <stdio.h>
-// Variáveis para as duas cartas do Super Trunfo em C
+
 int main() {
+    // Variáveis para as duas cartas do Super Trunfo em C
     char estado1, estado2;
     char codigo1[4], codigo2[4];
     char nomeCidade1[50], nomeCidade2[50];
