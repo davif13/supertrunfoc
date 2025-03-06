@@ -104,9 +104,9 @@ int main() {
     }
 
     if (densidadePopulacional1 > densidadePopulacional2) {
-        printf("Densidade Populacional: Carta 1 venceu\n");
-    } else {
         printf("Densidade Populacional: Carta 2 venceu\n");
+    } else {
+        printf("Densidade Populacional: Carta 1 venceu\n");
     }
     
     if (pibPerCapita1 > pibPerCapita2) {
